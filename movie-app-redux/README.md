@@ -2,7 +2,7 @@ Projet ReactJS
 Utilisation de l'API the movie database.
 Utilisation de react Redux,axios, react bootstrap et bootstrap.
 
-feature de pagination, liste favoris, selection de la liste a afficher, et de recherche.
+feature de pagination, liste favoris(avec le store de redux), selection de la liste à afficher, et de recherche.
 Necessite une clé API de the movie dataBase dans un .env pour être visuallisez.
 REACT_APP_API_KEY=...votre clé API...
 
